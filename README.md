@@ -4,7 +4,7 @@
 - ✨ Google data analytics certification, and data science and machine learning
 - 💞️ I’m looking to collaborate on all projects data!!
 - ✨ Goal Quant developer or researcher
-- 📫 How to reach me on twitter @t_twange and linkedln @ Thonne Twange
+- 📫 How to reach me on twitter @t_twange, email-ttwange2@gmail.com and linkedln @ Thonne Twange
 
 <!---
 ttwange/ttwange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
