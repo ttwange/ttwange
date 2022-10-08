@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttwange
+- 👋 Hi, I’m thonne
 - 👀 I’m interested in Data and software engineering
 - 🌱 I’m currently learning Data engineering with Dataquest
 - ✨ Google data analytics certification, and data science and machine learning
