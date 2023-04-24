@@ -1,7 +1,7 @@
 - 👋 Hi, I’m thonne
 - 👀 I’m interested in Data and software engineering
-- 🌱 I’m currently learning Data engineering with Dataquest
-- ✨ Google data analytics certification, and data science and machine learning
+- 🌱 I’m currently learning Backend software and done with Data engineering with Dataquest
+- ✨ Google data analytics certification, Data engineering, and data science and machine learning
 - 💞️ I’m looking to collaborate on all projects data and software engineering
 - ✨ Goal to be a data/back-end engineering
 - 📫 How to reach me on twitter @t_twange, email: ttwange2@gmail.com and linkedln @Thonne Twange
