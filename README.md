@@ -4,7 +4,7 @@
 - ✨ Google data analytics certification, Data engineering and machine learning
 - 💞️ I’m looking to collaborate on all projects data and software engineering
 - ✨ Skills: Python, Docker, Postgres, Mysql, Pandas,Numpy,Django, DRF, Kafka, Debezium, Oracle db,     looker,Power BI, Prefect
-- ✨ Learning: Streaming and batch processes, Hive, Hadoop, dbt,Spark,data modeling, 
+- ✨ Working On: Streaming and batch processes, Hive, Hadoop, dbt,Spark,data modeling, 
 - 📫 How to reach me on twitter @t_twange, email: ttwange2@gmail.com and linkedln @Thonne Twange
 
 <!---
