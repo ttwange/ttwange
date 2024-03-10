@@ -1,6 +1,6 @@
 - 👋 Hi, I’m thonne
 - 👀 I’m interested in Data and software engineering
-- 🌱 Currently doing project based learning on Backend and Data engineering
+- 🌱 Currently doing project based learning on ML and Data engineering
 - ✨ Google data analytics certification, Data engineering and machine learning
 - 💞️ I’m looking to collaborate on all projects data and ML engineering
 - ✨ Skills: Python, Docker, Postgres, Mysql, Pandas,Numpy,Django, DRF, Kafka, Debezium, Oracle db,  looker,Power BI, Prefect, Spark(PySpark),Streaming and batch processes, 
